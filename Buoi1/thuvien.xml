@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Giải thuật</title>
+        <author>NGuyễn Xuân Hà Giang</author>
+        <year>2020</year>
+        <genre>Công nghệ</genre>
+    </book>
+    <book>
+        <title>Dế Mèn Phiêu Lưu Ký</title>
+        <author>Tô Hoài</author>
+        <year>1941</year>
+        <genre>Văn học</genre>
+    </book>
+    <book>
+        <title>Harry Potter và Hòn Đá Phù Thủy</title>
+        <author>J.K. Rowling</author>
+        <year>1997</year>
+        <genre>Fantasy</genre>
+    </book>
+    <book>
+        <title>Kiểm Thử Phần Mềm</title>
+        <author>Nguyễn Bá Duy</author>
+        <year>2020</year>
+        <genre>Công nghệ</genre>
+    </book>
+</library>
+

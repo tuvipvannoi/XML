@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns:order="http://company.com/order" xmlns:prod="http://company.com/product">
+    <order:order id="O001" customer="Nguyễn Văn A" date="2025-03-02">
+        <prod:item id="P001" quantity="2" price="500">
+            <prod:name>Điện thoại Samsung</prod:name>
+        </prod:item>
+        <prod:item id="P002" quantity="1" price="1000">
+            <prod:name>Laptop Dell</prod:name>
+        </prod:item>
+    </order:order>
+    <order:order id="O002" customer="Nguyễn Văn B" date="2025-03-02">
+        <prod:item id="P002" quantity="2" price="500">
+            <prod:name>Iphone 6</prod:name>
+        </prod:item>
+        <prod:item id="P002" quantity="2" price="1700">
+            <prod:name>Laptop Asus</prod:name>
+        </prod:item>
+    </order:order>
+    <order:order id="O001" customer="Nguyễn Văn C" date="2025-03-02">
+        <prod:item id="P001" quantity="2" price="500">
+            <prod:name>Điện thoại Lenovo</prod:name>
+        </prod:item>
+        <prod:item id="P002" quantity="1" price="1300">
+            <prod:name>Laptop Lenovo</prod:name>
+        </prod:item>
+    </order:order>
+    <order:order id="O001" customer="Nguyễn Văn D" date="2025-03-02">
+        <prod:item id="P001" quantity="2" price="500">
+            <prod:name>Điện thoại Xiaomi</prod:name>
+        </prod:item>
+        <prod:item id="P002" quantity="1" price="2000">
+            <prod:name>Laptop Macbook</prod:name>
+        </prod:item>
+    </order:order>
+</orders>

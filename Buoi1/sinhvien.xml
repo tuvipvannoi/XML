@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+    <student>
+        <name>Nguyễn Văn B</name>
+        <id>SV001</id>
+        <subjects>
+            <subject>
+                <subject_name>Giải tích</subject_name>
+                <score>8.5</score>
+            </subject>
+            <subject>
+                <subject_name>Ngôn ngữ lập trình</subject_name>
+                <score>7.8</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <name>Trần Thị C</name>
+        <id>SV002</id>
+        <subjects>
+            <subject>
+                <subject_name>Giải tích</subject_name>
+                <score>9.0</score>
+            </subject>
+            <subject>
+                <subject_name>Ngôn ngữ lập trình</subject_name>
+                <score>8.2</score>
+            </subject>
+        </subjects>
+    </student>
+
+    <student>
+        <name>Lê Văn D</name>
+        <id>SV003</id>
+        <subjects>
+            <subject>
+                <subject_name>Giải tích</subject_name>
+                <score>7.5</score>
+            </subject>
+            <subject>
+                <subject_name>Ngôn ngữ lập trình</subject_name>
+                <score>8.8</score>
+            </subject>
+        </subjects>
+    </student>
+</class>
