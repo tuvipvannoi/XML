@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE orders SYSTEM "orders.dtd">
-<orders>
+<orders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="donhang.xsd">
     <order id="0001">
         <product id="P001">
             <name>Điện thoại iPhone 14</name>

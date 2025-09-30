@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE library SYSTEM "library.dtd">
-<library>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="thuvien.xsd">
     <book id="B001">
         <title>Lập trình Python</title>
         <author>Nguyễn Văn C</author>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="order_product.xsd">
+    <order id="O001">
+        <customer>Nguyễn Văn A</customer>
+        <product id="P01" name="Laptop" price="1500"/>
+        <product id="P02" name="Chuột" price="20"/>
+    </order>
+
+    <order id="O002">
+        <customer>Trần Thị B</customer>
+        <product id="P01" name="Bàn phím" price="50"/>
+        <product id="P02" name="Màn hình" price="300"/>
+    </order>
+</orders>
